@@ -1,5 +1,7 @@
 # sapuri.io
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sapuri/sapuri.io.svg)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 yarn install
