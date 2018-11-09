@@ -162,6 +162,12 @@
               >
             </li>
             <li>
+              <b>Mastodon</b><br />
+              <a href="https://mstdn.jp/@sapuri" target="_blank" rel="noopener"
+                >https://mstdn.jp/@sapuri</a
+              >
+            </li>
+            <li>
               <b>GitHub</b><br />
               <a href="https://github.com/sapuri" target="_blank" rel="noopener"
                 >https://github.com/sapuri</a
