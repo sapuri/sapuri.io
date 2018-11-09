@@ -1,5 +1,6 @@
 # sapuri.io
 
+[![Build Status](https://travis-ci.org/sapuri/sapuri.io.svg?branch=master)](https://travis-ci.org/sapuri/sapuri.io)
 [![Greenkeeper badge](https://badges.greenkeeper.io/sapuri/sapuri.io.svg)](https://greenkeeper.io/)
 
 ## Project setup
