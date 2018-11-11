@@ -59,8 +59,15 @@
           <ul>
             <li>
               <b>スパランドットコム</b><br />
-              <a href="https://srandom.com" target="_blank" rel="noopener"
-                >https://srandom.com</a
+              <a href="https://srandom.com/" target="_blank" rel="noopener"
+                >https://srandom.com/</a
+              ><br />
+              Twitter:
+              <a
+                href="https://twitter.com/srandomcom"
+                target="_blank"
+                rel="noopener"
+                >@srandomcom</a
               ><br />
               ポップンミュージックのスパラン愛好家のためのクリア状況管理サイト<br />
               <md-chip>Python</md-chip>
@@ -69,10 +76,10 @@
             <li>
               <b>匣</b><br />
               <a
-                href="https://hako-chat.herokuapp.com"
+                href="https://hako-chat.herokuapp.com/"
                 target="_blank"
                 rel="noopener"
-                >https://hako-chat.herokuapp.com</a
+                >https://hako-chat.herokuapp.com/</a
               ><br />
               アカウント無しですぐに使える匿名プライベートチャットサービス<br />
               <md-chip>Python</md-chip>
@@ -82,10 +89,10 @@
             <li style="margin-bottom: 30px">
               <b>Web3 Online Tools</b><br />
               <a
-                href="https://web3-tools.netlify.com"
+                href="https://web3-tools.netlify.com/"
                 target="_blank"
                 rel="noopener"
-                >https://web3-tools.netlify.com</a
+                >https://web3-tools.netlify.com/</a
               ><br />
               Ethereum アプリケーション開発者のためのオンラインツール<br />
               <md-chip>Vue.js</md-chip>
