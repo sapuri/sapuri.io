@@ -37,7 +37,7 @@
             <md-chip>Ionic</md-chip>
             <md-chip>Solidity</md-chip>
             <md-chip>Heroku</md-chip>
-            <md-chip>Google Cloud Platform</md-chip>
+            <md-chip>GCP</md-chip>
           </div>
           <div class="subsection">
             <p><b>資格</b></p>
@@ -159,6 +159,12 @@
         </md-card-header>
         <md-card-content>
           <ul>
+            <li>
+              <b>Blog</b><br />
+              <a href="https://blog.sapuri.io" target="_blank" rel="noopener"
+                >https://blog.sapuri.io</a
+              >
+            </li>
             <li>
               <b>Twitter</b><br />
               <a
