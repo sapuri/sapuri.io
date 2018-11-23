@@ -30,12 +30,14 @@
           <div class="subsection">
             <p><b>最近使っているもの</b></p>
             <md-chip>Python</md-chip>
-            <md-chip>JavaScript</md-chip>
-            <md-chip>Go</md-chip>
             <md-chip>Django</md-chip>
+            <md-chip>JavaScript</md-chip>
             <md-chip>Vue.js</md-chip>
+            <md-chip>Nuxt.js</md-chip>
+            <md-chip>Vuex</md-chip>
             <md-chip>Ionic</md-chip>
             <md-chip>Solidity</md-chip>
+            <md-chip>Netlify</md-chip>
             <md-chip>Heroku</md-chip>
             <md-chip>GCP</md-chip>
           </div>
@@ -97,6 +99,21 @@
               Ethereum アプリケーション開発者のためのオンラインツール<br />
               <md-chip>Vue.js</md-chip>
               <md-chip>Web3.js</md-chip>
+              <md-chip>Netlify</md-chip>
+            </li>
+            <li style="margin-bottom: 30px">
+              <b>ドミニオン計算機</b><br />
+              <a
+                href="https://dominion-calc.netlify.com/"
+                target="_blank"
+                rel="noopener"
+                >https://dominion-calc.netlify.com/</a
+              ><br />
+              ドミニオンの勝利点を計算するプログレッシブウェブアプリ<br />
+              <md-chip>Vue.js</md-chip>
+              <md-chip>Nuxt.js</md-chip>
+              <md-chip>Vuex</md-chip>
+              <md-chip>PWA</md-chip>
               <md-chip>Netlify</md-chip>
             </li>
           </ul>
