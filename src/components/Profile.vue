@@ -31,7 +31,6 @@
             <p><b>最近使っているもの</b></p>
             <md-chip>Python</md-chip>
             <md-chip>Django</md-chip>
-            <md-chip>JavaScript</md-chip>
             <md-chip>Vue.js</md-chip>
             <md-chip>Nuxt.js</md-chip>
             <md-chip>Vuex</md-chip>
