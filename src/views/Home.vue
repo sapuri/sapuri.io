@@ -8,7 +8,7 @@
 
     <Profile title="sapuri.io" />
 
-    <footer><p>&copy; 2018 sapuri.io</p></footer>
+    <footer><p>&copy; 2019 sapuri.io</p></footer>
   </div>
 </template>
 
