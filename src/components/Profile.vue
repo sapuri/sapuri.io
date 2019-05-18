@@ -7,13 +7,12 @@
           <div class="md-subhead">私について</div>
         </md-card-header>
         <md-card-content>
-          <p><b>ソフトウェアエンジニア</b></p>
-          <p><b>所属</b>: 東京大学大学院 学際情報学府 M2</p>
-          <p><b>専門</b>: Human Computer Interaction, IoT, Blockchain</p>
+          <p><b>ソフトウェアエンジニア &#x1f1ef;&#x1f1f5;</b></p>
+          <p><b>所属</b>: 株式会社メルカリ / Mercari, Inc.</p>
           <p><b>血液型</b>: AB</p>
           <p>
-            怪しいものを作りがちな無職<br />
-            最近はブロックチェーンを使ったアプリを作っています。
+            Webアプリケーション開発が好きです。<br />
+            怪しいサイトを作ったり、ブロックチェーンを使ったアプリを作っていました。<br />
           </p>
         </md-card-content>
       </md-card>
@@ -26,9 +25,13 @@
           <div class="md-subhead">技術</div>
         </md-card-header>
         <md-card-content>
-          <p>主に Web アプリケーションを作っています。</p>
+          <p>
+            主に Web アプリケーションを作っています。<br />
+            最も好きな開発部位はバックエンドです。
+          </p>
           <div class="subsection">
             <p><b>最近使っているもの</b></p>
+            <md-chip>Go</md-chip>
             <md-chip>Python</md-chip>
             <md-chip>Django</md-chip>
             <md-chip>Vue.js</md-chip>
@@ -36,8 +39,6 @@
             <md-chip>Vuex</md-chip>
             <md-chip>Ionic</md-chip>
             <md-chip>Solidity</md-chip>
-            <md-chip>Netlify</md-chip>
-            <md-chip>Heroku</md-chip>
             <md-chip>GCP</md-chip>
           </div>
           <div class="subsection">
@@ -130,24 +131,29 @@
         <md-card-content>
           <ul>
             <li>
+              2019/04:<br />
+              <b>株式会社メルカリ / Mercari, Inc.</b><br />
+              ソフトウェアエンジニア (Backend)
+            </li>
+            <li>
               2018/06:<br />
               <b>株式会社メルカリ / Mercari, Inc.</b><br />
-              ソフトウェアエンジニア (インターンシップ)
+              ソフトウェアエンジニア (R&D) (Internship)
             </li>
             <li>
               2017/12:<br />
               <b>任天堂株式会社 / Nintendo Co., Ltd.</b><br />
-              ネットワーク開発コース (インターンシップ)
+              ネットワーク開発コース (Internship)
             </li>
             <li>
               2017/10:<br />
               <b>株式会社サイバーエージェント / CyberAgent, Inc.</b><br />
-              サーバーサイドエンジニア (インターンシップ)
+              サーバーサイドエンジニア (Internship)
             </li>
             <li>
               2017/08:<br />
               <b>株式会社コロプラ / COLOPL, Inc.</b><br />
-              サーバーサイドエンジニア (インターンシップ)
+              サーバーサイドエンジニア (Internship)
             </li>
           </ul>
         </md-card-content>
