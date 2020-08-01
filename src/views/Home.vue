@@ -35,6 +35,7 @@ header
   position -webkit-sticky
   top 1px
   z-index 10
+  background-color white
 
 footer
   margin-bottom 20px
